@@ -9,7 +9,7 @@ I build tools I actually use — for trading, learning, and thinking. Everything
 ### What I've shipped
 
 **[Rex — AI Memory Assistant](https://github.com/KaranaGulati/AI-Memory-Assistant)**
-An AI assistant with persistent memory across conversations. Built because I got tired of re-explaining context to LLMs every time.
+A Telegram bot that reads your notes and quizzes you using spaced repetition and forgetting curves. Built to actually retain what I study.
 `Python`
 
 **[Praxis](https://github.com/KaranaGulati/Praxis)**
@@ -34,7 +34,7 @@ A spelling corrector app with active recall mechanics.
 ### Currently
 
 - Preparing for VibeCon India (April 2026)
-- Building a spaced repetition app grounded in forgetting curves
+- Iterating on Rex with autonomous study reminders and adaptive question generation
 - Exploring volatility surface strategies in crypto options
 
 ---

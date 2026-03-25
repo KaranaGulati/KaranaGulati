@@ -34,6 +34,7 @@ A spelling corrector app with active recall mechanics.
 ### Currently
 
 - Preparing for VibeCon India (April 2026)
+- Preparing for International Finance Olympiad (Singapore) and IM2C
 - Iterating on Rex with autonomous study reminders and adaptive question generation
 - Exploring volatility surface strategies in crypto options
 

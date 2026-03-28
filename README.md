@@ -41,9 +41,3 @@ A spelling corrector app with active recall mechanics.
 - Preparing for International Finance Olympiad (Singapore) and International Mathematical Modeling Challenge (IM2C)
 - Iterating on Rex with autonomous study reminders and adaptive question generation
 - Exploring volatility surface strategies in crypto options
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranaGulati&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
-</p>

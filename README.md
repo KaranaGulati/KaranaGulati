@@ -8,6 +8,10 @@ I build tools I actually use — for trading, learning, and thinking. Everything
 
 ### What I've shipped
 
+**[Recall OS](https://github.com/KaranaGulati/Recall-OS)**
+A spaced repetition study planner that schedules your revision using the SM-2 algorithm. Includes syllabus management, daily dashboard, exam mode, and a revision heatmap.
+`React` `TypeScript` `Express` `SQLite`
+
 **[Rex — AI Memory Assistant](https://github.com/KaranaGulati/AI-Memory-Assistant)**
 A Telegram bot that reads your notes and quizzes you using spaced repetition and forgetting curves. Built to actually retain what I study.
 `Python`

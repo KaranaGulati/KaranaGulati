@@ -39,5 +39,4 @@ A spelling corrector app with active recall mechanics.
 
 - Preparing for VibeCon India (April 2026)
 - Preparing for International Finance Olympiad (Singapore) and International Mathematical Modeling Challenge (IM2C)
-- Iterating on Rex with autonomous study reminders and adaptive question generation
 - Exploring volatility surface strategies in crypto options

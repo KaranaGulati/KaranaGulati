@@ -1,42 +1,34 @@
 # Karana Gulati
 
-17 · Amritsar, India · Builder
+Amritsar, India
 
-I build tools I actually use — for trading, learning, and thinking. Everything here is vibecoded.
-
----
-
-### What I've shipped
-
-**[Recall OS](https://github.com/KaranaGulati/Recall-OS)**
-A spaced repetition study planner that schedules your revision using the SM-2 algorithm. Includes syllabus management, daily dashboard, exam mode, and a revision heatmap.
-`React` `TypeScript` `Express` `SQLite`
-
-**[Rex — AI Memory Assistant](https://github.com/KaranaGulati/AI-Memory-Assistant)**
-A Telegram bot that reads your notes and quizzes you using spaced repetition and forgetting curves. Built to actually retain what I study.
-`Python`
-
-**[Praxis](https://github.com/KaranaGulati/Praxis)**
-A paragraph breakdown teacher — feeds you complex text and forces you to understand it structurally before moving on.
-`HTML`
-
-**[Spelling Forge](https://github.com/KaranaGulati/Spelling-Forge)**
-A spelling corrector app with active recall mechanics.
-`HTML`
+I work on mathematical modelling and quantitative research, and I build small tools for myself. Some of the most useful things here did not work.
 
 ---
 
-### What I do beyond code
+### Selected work
 
-- **Trade derivatives** — Nifty FNO and BTC options with self-developed strategy frameworks
-- **Deployed a live trading bot** on a VPS that runs autonomously
-- **Writing a quantitative research paper** on Indian financial markets
-- **Lodha Genius Program** selectee
+**International Mathematical Modelling Challenge 2026 — Honourable Mention (international round)**
+Team leader. We built SHIELD, an exponential survival-decay metric that scores how well a national park is protected when six threats are happening at once, paired with a four-layer deployment plan and a feasibility index. Validated over 1,000 Monte Carlo runs across a five-year horizon.
+
+**Information asymmetry in Indian derivatives markets — abandoned**
+A study of whether NSE's daily participant-wise F&O disclosures reveal what institutions know and retail traders do not, across 1,032 trading days from 2022 to 2026. I found the literature review unreliable, audited all 46 references against the primary sources, and then ended the project over a flaw in my own positioning measure.
+
+**[AI Memory Assistant](https://github.com/KaranaGulati/AI-Memory-Assistant)**
+A Telegram bot that reads my Obsidian notes, writes questions from them and asks them back on a spaced repetition schedule using the Ebbinghaus forgetting curve. Abandoned once the question quality I could afford stopped being worth the running cost.
+`Python` `SQLite`
 
 ---
 
-### Currently
+### Elsewhere
 
-- Preparing for VibeCon India (April 2026)
-- Preparing for International Finance Olympiad (Singapore) and International Mathematical Modeling Challenge (IM2C)
-- Exploring volatility surface strategies in crypto options
+- **Lodha Genius Programme 2026**, selected from roughly 30,000 applicants. Discrete mathematics.
+- Implement and backtest quantitative strategies from published research. Nifty F&O and BTC options.
+- Keep a linked personal wiki in Obsidian, going on three years.
+- Competitive chess. Qualified for state level from the district under-17.
+
+---
+
+### How I build
+
+I design the architecture and make the decisions, some of the implementation is done with AI assistance, and the checking is mine. I say so plainly because I once produced research that looked finished and turned out to rest on citations I had never verified.

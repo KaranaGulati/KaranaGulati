@@ -11,7 +11,7 @@ I work on mathematical modelling and quantitative research, and I build small to
 **International Mathematical Modelling Challenge 2026 — Honourable Mention (international round)**
 Team leader. We built SHIELD, an exponential survival-decay metric that scores how well a national park is protected when six threats are happening at once, paired with a four-layer deployment plan and a feasibility index. Validated over 1,000 Monte Carlo runs across a five-year horizon.
 
-**Information asymmetry in Indian derivatives markets — abandoned**
+**Information asymmetry in Indian derivatives markets — paused**
 A study of whether NSE's daily participant-wise F&O disclosures reveal what institutions know and retail traders do not, across 1,032 trading days from 2022 to 2026. I found I could not defend the paper under questioning, so I audited all 46 references against the primary sources. Around twenty cited works did not support the claims attached to them.
 
 **[AI Memory Assistant](https://github.com/KaranaGulati/AI-Memory-Assistant)**
